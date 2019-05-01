@@ -1,2 +1,1 @@
-# projektorkraft.github.io
-Github Pages for Projektorkraft
+## Github Pages for Projektorkraft
