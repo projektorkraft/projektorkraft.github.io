@@ -19,4 +19,4 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-Cool description of our Golems project. Check it out [Here](https:projektorkraft.github.io/Golem)
+Cool description of our Golems project. Check it out [Here](https://projektorkraft.github.io/Golem)
