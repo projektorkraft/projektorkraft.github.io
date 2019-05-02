@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
-#  overlay_image: /assets/images/mm-home-page-feature.jpg
+  overlay_image: /assets/images/pk_header.png
 excerpt: >
   A pair of professional software developers/hobbyist game developers creating games for fun and no profit.<br />
   <small><a href="/projects">Check out our Projects</a></small>
