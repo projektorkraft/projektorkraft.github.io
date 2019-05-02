@@ -1,6 +1,8 @@
 main:
         - title: "Home"
           url: /
+        - title: "News"
+          url: /news
         - title: "About Us"
           url: /about
         - title: "Projects"
